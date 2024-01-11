@@ -20,7 +20,8 @@ To reproduce the experiments, follow these steps:
 2. Open the respective Jupyter notebooks for the desired experiment.
 3. Execute the cells within each notebook to replicate the experiments and obtain results.
 
-Please note that for the ResNet18 experiment, the training data was obtained from the [Harvard Machine Learning Double Descent repository](https://gitlab.com/harvard-machine-learning/double-descent/tree/master). For the other two experiments, the training sessions are embedded within the notebooks.
+Please note that for the ResNet18 experiment, the training data was obtained from the [Harvard Machine Learning Double Descent repository](https://gitlab.com/harvard-machine-learning/double-descent/tree/master). For the other two experiments, the training sessions are embedded within the notebooks. Feel free to reach out if you have any questions or need further assistance. We appreciate your interest in our work!
+
 
 ## Citation
 
@@ -33,9 +34,4 @@ If you find this code helpful in your research, please consider citing our paper
   journal={Information and Inference: A Journal of the IMA},
   year={2024},
   publisher = {Oxford University Press}
-}'''
-
-
-
-
-Feel free to reach out if you have any questions or need further assistance. We appreciate your interest in our work!
+}
