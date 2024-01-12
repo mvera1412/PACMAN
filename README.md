@@ -28,7 +28,7 @@ Please note that for the ResNet18 experiment, the training data was obtained fro
 If you find this code helpful in your research, please consider citing our paper. Here is the BibTeX entry:
 
 ```bibtex
-@article{your-pacman-paper,
+@article{PACMAN-vera-et-al,
   title={PACMAN: PAC-style bounds accounting for the Mismatch between Accuracy and Negative log-loss},
   author={Vera, Matias and Rey Vega, Leonardo and Piantanida, Pablo},
   journal={Information and Inference: A Journal of the IMA},
