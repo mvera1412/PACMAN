@@ -1,4 +1,4 @@
-# PACMAN: PAC-style Bounds for Accuracy-Log-loss Mismatch
+# PACMAN: PAC-style bounds accounting for the Mismatch between Accuracy and Negative log-loss
 
 Welcome to the repository for PACMAN, the implementation of PAC-style bounds accounting for the Mismatch between Accuracy and Negative log-loss. This codebase serves as a comprehensive resource for reproducing the results presented in our journal publication.
 
