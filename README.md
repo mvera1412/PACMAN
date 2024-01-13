@@ -8,7 +8,7 @@ The repository includes three Jupyter notebooks, each designed to replicate spec
 
 1. **ResNet18 on CIFAR-10 Dataset**: Utilizing a pre-trained ResNet18 model, originally sourced from [Harvard Machine Learning's Double Descent repository](https://gitlab.com/harvard-machine-learning/double-descent/tree/master), this notebook reproduces the experiment on the CIFAR-10 dataset.
 
-2. **Fully Connected Neural Network on FashionMNIST Dataset**: This notebook replicates the experiment involving a fully connected deep neural network trained on the FashionMNIST dataset.
+2. **Fully Connected Neural Network on FashionMNIST Dataset**: This notebook replicates the experiment involving a feed forward fully connected deep neural network trained on the FashionMNIST dataset.
 
 3. **LeNet-5 on MNIST Dataset**: The third notebook focuses on reproducing the experiment involving a LeNet-5 model trained on the MNIST dataset.
 
